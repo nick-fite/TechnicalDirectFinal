@@ -1,6 +1,6 @@
 # TechnicalDirectFinal
 ### Introduction
-The most annoying thing I found about rigging was putting points joints down. I wanted to see if I could automate it a bit like it was in the auto-rigger we used.
+The most annoying thing I found about rigging was putting joints down. I wanted to see if I could automate it a bit like it was in the auto-rigger we used.
 # How To Install
 - Download and unzip the plging into the maya script folder, it should look like this
 ![ScreenShot of file directory](assets/FileDirectoryScreenShot.png)
