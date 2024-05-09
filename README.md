@@ -25,6 +25,6 @@ The most annoying thing I found about rigging was putting points joints down. I 
 
 ![ScreenShot of full rig](assets/FullRigScreenShot.png)
 
-- It does some basic skin weighting, but feel free to edit ti to be more precise to what you want
+- It does some basic skin weighting, but feel free to edit it to be more precise to what you want
 - If you want to edit the skeleton a bit hit Reset Skeleton, make your changes, and hit finish again.
     - Any changes to skin weight will not be saved
